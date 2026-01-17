@@ -1,3 +1,3 @@
 a = int(input(" Enter number 1: "))
-# use to find square
+# square dunde ne ke kaam aata hai
 print("Square of the number is", a*a)
