@@ -1,6 +1,6 @@
 name = "Amit"
 
-print(len(name)) #ye total word batata hai
+print(len(name)) #count total alphabet
 print(name.endswith("mit")) #ye dhekhta hai jo sabd end me likhe hai wo hai ya nhi
 print(name.startswith("Am")) #ye start ka dekhta hai
 # uper dono fucntion capital ki jagah small likhne se bhi wrong kar dete hai
