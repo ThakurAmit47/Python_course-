@@ -13,3 +13,5 @@ f6 = int(input("Enter your marks: "))
 marks.append(f6)
 marks.sort()
 print(marks)
+
+#this function arrange intergers small to bog numbers
