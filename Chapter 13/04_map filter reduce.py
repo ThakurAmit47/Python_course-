@@ -14,6 +14,7 @@ def even(n):
     return False
 Onlyeven = filter(even, l)
 print(list(Onlyeven))
+#they filter the list
 
 #Reduce Example
 def sum(a, b):
@@ -22,3 +23,4 @@ def sum(a, b):
 mul = lambda x, y: x*y
 print(reduce(sum, l))
 print(reduce(mul, l))
+#this Function use to reduce list
