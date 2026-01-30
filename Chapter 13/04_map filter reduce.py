@@ -1,7 +1,7 @@
 from functools import reduce
 #This is a map Example
 l = [1, 2, 3, 4, 5, 6]
-
+#lamda is a function for define expression
 square = lambda x: x*x
 
 sqList = map(square, l)
