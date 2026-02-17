@@ -6,3 +6,4 @@ def five(n):
     return False
 Onlyeven = filter(five, l)
 print(list(Onlyeven))
+#completed

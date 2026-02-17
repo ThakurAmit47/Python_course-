@@ -6,3 +6,4 @@ def greater(a, b):
     return b
 
 print(reduce(greater, l))
+#completed
