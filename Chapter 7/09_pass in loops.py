@@ -5,3 +5,5 @@ i = 0
 while(i<65):
     print(i)
     i += 1
+
+#loop ko pass karna ho to pass statement lagti hai

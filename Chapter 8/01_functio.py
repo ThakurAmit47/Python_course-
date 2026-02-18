@@ -27,3 +27,4 @@ avg()
 avg()
 avg()
 avg()
+#function call
