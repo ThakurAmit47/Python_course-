@@ -7,5 +7,6 @@ for i in range(100):
 #continue method for lopps
 for t in range(100):
     if(t == 34):
-        continue #loop 34 ko skip kardega
+        continue #loop 34 ko skip kardega!!
     print(t)
+#well explained!
